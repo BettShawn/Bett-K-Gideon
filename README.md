@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BettShawn
 - 👀 I’m interested in Java,Flutter and Python programming languages.
 - 🌱 I’m currently learning Python programming language.
-- 💞️ I’m looking to collaborate on future profile relating to my ineterests.
+- 💞️ I’m looking to collaborate on future profile relating to my interests.
 - 📫 How to reach me bettshawn45@gmail.com
 
 <!---
