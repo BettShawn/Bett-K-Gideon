@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BettShawn
+- 👋 Hi, I’m @Bett Gideon
 - 👀 I’m conversant with Java,Kotlin, React Native, PHP with laravel framework programming languages.
 - 🌱 I’m currently learning Flutter and Python programming language.
 - 💞️ I’m looking to collaborate on future profile relating to my interests.
